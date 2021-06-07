@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "194946560754",
+    "firebase_url": "https://fithelperapp.firebaseio.com",
+    "project_id": "fithelperapp",
+    "storage_bucket": "fithelperapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194946560754:android:b97c0a945502bcf38b566b",
+        "android_client_info": {
+          "package_name": "com.techit.fithelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194946560754-buu91mgo9lb8a1u33p276sp8b9u7ophs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techit.fithelper",
+            "certificate_hash": "a00a46c0df62b778cdaa607e732195eebd8742f7"
+          }
+        },
+        {
+          "client_id": "194946560754-8n64k331g3s7jp7n6mclnju4fv7t3em6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw8TeGB9qN2xGsnvymJ3xESwMtF-EQXVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194946560754-8n64k331g3s7jp7n6mclnju4fv7t3em6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

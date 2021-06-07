@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FitHelper</string>
+    <string name="app_in_name">FitHelper</string>
+    <string name="text_bottom">Sing in Account!</string>
+    <string name="text_bottom1">.</string>
+    <string name="btnSignIn">Zaloguj się</string>
+    <string name="btnRegister">Rejestracja</string>
+    <string name="app_name_after">Kalkulator kalorii</string>
+    <string name="btnOther">Nabiał</string>
+    <string name="btnFast">Mięso i ryby</string>
+    <string name="btnHome">Produkty Zbożowe</string>
+    <string name="btnFruits">Owoce</string>
+    <string name="btnVegetables">Warzywa</string>
+    <string name="btnDrinks">Orzechy</string>
+    <string name="home_food">Produkty Zbożowe</string>
+    <string name="fruit">Owoce</string>
+    <string name="calc_ac">Kalkulator</string>
+    <string name="map_ac">Krokomierz</string>
+    <string name="pro_ac">Mój profil</string>
+    <string name="back_l">Wróć</string>
+    <string name="enter_it">Dalej</string>
+    <string name="profile">Mój profil</string>
+    <string name="history">Historia</string>
+    <string name="developer">Tupitska Iryna</string>
+</resources>
